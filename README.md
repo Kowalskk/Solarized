@@ -3,7 +3,7 @@
 
 # Solarized — On-Chain Intelligence Suite
 
-**Institutional-grade Solana forensic tracing and wallet analysis engine**
+**Solana forensic tracing and wallet analysis engine**
 
 [Live App](https://solarized-sooty.vercel.app) • [API Health](https://solarized-sooty.vercel.app/api/health) • [Documentation](docs/architecture.md)
 
